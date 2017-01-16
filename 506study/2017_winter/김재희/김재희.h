@@ -1,1 +1,6 @@
 #include"robot.h"
+#include"2908.h"
+#include"3986.h"
+#include"2902.h"
+#include"1260.h"
+#include"13565.h"
