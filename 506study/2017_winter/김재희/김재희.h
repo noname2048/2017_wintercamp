@@ -4,3 +4,7 @@
 #include"2902.h"
 #include"1260.h"
 #include"13565.h"
+#include"1978.h"
+#include"1929.h"
+#include"2581.h"
+#include"11502.h"
