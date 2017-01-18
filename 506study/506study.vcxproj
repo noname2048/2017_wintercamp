@@ -146,16 +146,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="2017_winter\김재희\robot.cpp" />
-    <ClCompile Include="2017_winter\최성욱\robot.cpp" />
+    <ClCompile Include="2017_winter\최성욱\1회\picnic.cpp" />
+    <ClCompile Include="2017_winter\최성욱\1회\robot.cpp" />
+    <ClCompile Include="2017_winter\최성욱\1회\sfw.cpp" />
+    <ClCompile Include="2017_winter\최성욱\2회\bfs와dfs.cpp" />
+    <ClCompile Include="2017_winter\최성욱\2회\KMP는왜KMP일까.cpp" />
+    <ClCompile Include="2017_winter\최성욱\2회\percolation.cpp" />
+    <ClCompile Include="2017_winter\최성욱\2회\상수.cpp" />
+    <ClCompile Include="2017_winter\최성욱\2회\좋은단어.cpp" />
     <ClCompile Include="home.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="2017_winter\김재희\robot.h" />
-    <ClInclude Include="2017_winter\김재희\김재희.h" />
-    <ClInclude Include="2017_winter\최성욱\robot.h" />
+    <ClInclude Include="2017_winter\최성욱\1회\picnic.h" />
+    <ClInclude Include="2017_winter\최성욱\1회\robot.h" />
+    <ClInclude Include="2017_winter\최성욱\1회\sfw.h" />
+    <ClInclude Include="2017_winter\최성욱\2회\bfs와dfs.h" />
+    <ClInclude Include="2017_winter\최성욱\2회\KMP는왜KMP일까.h" />
+    <ClInclude Include="2017_winter\최성욱\2회\percolation.h" />
+    <ClInclude Include="2017_winter\최성욱\2회\상수.h" />
+    <ClInclude Include="2017_winter\최성욱\2회\좋은단어.h" />
     <ClInclude Include="2017_winter\최성욱\최성욱.h" />
     <ClInclude Include="common.hpp" />
+    <ClInclude Include="resource.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

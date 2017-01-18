@@ -13,45 +13,81 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="헤더 파일\최성욱">
-      <UniqueIdentifier>{0d305dc0-b55b-4c05-a74d-10070e922fcc}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\최성욱">
       <UniqueIdentifier>{2799d5b5-c617-4ba9-8ab1-2da1ab6d7a86}</UniqueIdentifier>
     </Filter>
-    <Filter Include="헤더 파일\김재희">
-      <UniqueIdentifier>{49c899f1-e1ad-4a7f-ae59-f0563dbe3858}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\김재희">
       <UniqueIdentifier>{9c3482af-b1b0-4502-b977-f90eb5a95e1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\최성욱\1회">
+      <UniqueIdentifier>{c8fc1611-c96e-4af2-8b74-9a87c377d846}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\최성욱\2회">
+      <UniqueIdentifier>{39b4be1b-09c2-484d-be2a-84ca78cc479f}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="home.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2017_winter\최성욱\robot.cpp">
-      <Filter>소스 파일\최성욱</Filter>
+    <ClCompile Include="2017_winter\최성욱\1회\picnic.cpp">
+      <Filter>소스 파일\최성욱\1회</Filter>
     </ClCompile>
-    <ClCompile Include="2017_winter\김재희\robot.cpp">
-      <Filter>소스 파일\김재희</Filter>
+    <ClCompile Include="2017_winter\최성욱\1회\robot.cpp">
+      <Filter>소스 파일\최성욱\1회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\1회\sfw.cpp">
+      <Filter>소스 파일\최성욱\1회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\2회\bfs와dfs.cpp">
+      <Filter>소스 파일\최성욱\2회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\2회\KMP는왜KMP일까.cpp">
+      <Filter>소스 파일\최성욱\2회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\2회\percolation.cpp">
+      <Filter>소스 파일\최성욱\2회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\2회\상수.cpp">
+      <Filter>소스 파일\최성욱\2회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\2회\좋은단어.cpp">
+      <Filter>소스 파일\최성욱\2회</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="2017_winter\최성욱\robot.h">
-      <Filter>헤더 파일\최성욱</Filter>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\1회\picnic.h">
+      <Filter>소스 파일\최성욱\1회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\1회\robot.h">
+      <Filter>소스 파일\최성욱\1회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\1회\sfw.h">
+      <Filter>소스 파일\최성욱\1회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\2회\bfs와dfs.h">
+      <Filter>소스 파일\최성욱\2회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\2회\KMP는왜KMP일까.h">
+      <Filter>소스 파일\최성욱\2회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\2회\percolation.h">
+      <Filter>소스 파일\최성욱\2회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\2회\상수.h">
+      <Filter>소스 파일\최성욱\2회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\2회\좋은단어.h">
+      <Filter>소스 파일\최성욱\2회</Filter>
     </ClInclude>
     <ClInclude Include="2017_winter\최성욱\최성욱.h">
-      <Filter>헤더 파일\최성욱</Filter>
-    </ClInclude>
-    <ClInclude Include="2017_winter\김재희\robot.h">
-      <Filter>헤더 파일\김재희</Filter>
-    </ClInclude>
-    <ClInclude Include="2017_winter\김재희\김재희.h">
-      <Filter>헤더 파일\김재희</Filter>
+      <Filter>소스 파일\최성욱</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
