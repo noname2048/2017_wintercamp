@@ -1,4 +1,4 @@
-#pragma once
-namespace 김경년 {
-	//여기에 만드신 파일의 헤더들을 입력해 주세요
-}
+#include"jan_16_2908.h"
+#include"jan_18_1929.h"
+#include"jan_18_1978.h"
+#include"jan_18_2581.h"
