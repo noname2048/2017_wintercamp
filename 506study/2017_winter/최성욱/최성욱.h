@@ -12,3 +12,10 @@
 #include"3회\소수구하기.h"
 #include"3회\소수.h"
 #include"3회\세개의소수.h"
+
+#include"4회\프린터큐.h"
+#include"4회\키로거.h"
+#include"4회\ITES.h"
+
+#include"5회\runningmedian.h"
+#include"5회\arctic.h"
