@@ -25,6 +25,15 @@
     <Filter Include="소스 파일\최성욱\2회">
       <UniqueIdentifier>{39b4be1b-09c2-484d-be2a-84ca78cc479f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\최성욱\3회">
+      <UniqueIdentifier>{2f319ccd-f7f8-4881-a3e6-4ff0924d697d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\최성욱\4회">
+      <UniqueIdentifier>{37513c4b-14fb-48fc-823c-9566d48facac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\최성욱\5회">
+      <UniqueIdentifier>{ac87f4b8-1cfd-43b9-9c8f-266f79b78559}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="home.cpp">
@@ -54,12 +63,36 @@
     <ClCompile Include="2017_winter\최성욱\2회\좋은단어.cpp">
       <Filter>소스 파일\최성욱\2회</Filter>
     </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\3회\세개의소수.cpp">
+      <Filter>소스 파일\최성욱\3회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\3회\소수.cpp">
+      <Filter>소스 파일\최성욱\3회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\3회\소수구하기.cpp">
+      <Filter>소스 파일\최성욱\3회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\3회\소수찾기.cpp">
+      <Filter>소스 파일\최성욱\3회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\4회\ITES.cpp">
+      <Filter>소스 파일\최성욱\4회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\4회\키로거.cpp">
+      <Filter>소스 파일\최성욱\4회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\4회\프린터큐.cpp">
+      <Filter>소스 파일\최성욱\4회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\5회\arctic.cpp">
+      <Filter>소스 파일\최성욱\5회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\5회\runningmedian.cpp">
+      <Filter>소스 파일\최성욱\5회</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.hpp">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="resource.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="2017_winter\최성욱\1회\picnic.h">
@@ -88,6 +121,33 @@
     </ClInclude>
     <ClInclude Include="2017_winter\최성욱\최성욱.h">
       <Filter>소스 파일\최성욱</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\3회\세개의소수.h">
+      <Filter>소스 파일\최성욱\3회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\3회\소수.h">
+      <Filter>소스 파일\최성욱\3회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\3회\소수구하기.h">
+      <Filter>소스 파일\최성욱\3회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\3회\소수찾기.h">
+      <Filter>소스 파일\최성욱\3회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\4회\ITES.h">
+      <Filter>소스 파일\최성욱\4회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\4회\키로거.h">
+      <Filter>소스 파일\최성욱\4회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\4회\프린터큐.h">
+      <Filter>소스 파일\최성욱\4회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\5회\arctic.h">
+      <Filter>소스 파일\최성욱\5회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\5회\runningmedian.h">
+      <Filter>소스 파일\최성욱\5회</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -154,6 +154,15 @@
     <ClCompile Include="2017_winter\최성욱\2회\percolation.cpp" />
     <ClCompile Include="2017_winter\최성욱\2회\상수.cpp" />
     <ClCompile Include="2017_winter\최성욱\2회\좋은단어.cpp" />
+    <ClCompile Include="2017_winter\최성욱\3회\세개의소수.cpp" />
+    <ClCompile Include="2017_winter\최성욱\3회\소수.cpp" />
+    <ClCompile Include="2017_winter\최성욱\3회\소수구하기.cpp" />
+    <ClCompile Include="2017_winter\최성욱\3회\소수찾기.cpp" />
+    <ClCompile Include="2017_winter\최성욱\4회\ITES.cpp" />
+    <ClCompile Include="2017_winter\최성욱\4회\키로거.cpp" />
+    <ClCompile Include="2017_winter\최성욱\4회\프린터큐.cpp" />
+    <ClCompile Include="2017_winter\최성욱\5회\arctic.cpp" />
+    <ClCompile Include="2017_winter\최성욱\5회\runningmedian.cpp" />
     <ClCompile Include="home.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -165,9 +174,17 @@
     <ClInclude Include="2017_winter\최성욱\2회\percolation.h" />
     <ClInclude Include="2017_winter\최성욱\2회\상수.h" />
     <ClInclude Include="2017_winter\최성욱\2회\좋은단어.h" />
+    <ClInclude Include="2017_winter\최성욱\3회\세개의소수.h" />
+    <ClInclude Include="2017_winter\최성욱\3회\소수.h" />
+    <ClInclude Include="2017_winter\최성욱\3회\소수구하기.h" />
+    <ClInclude Include="2017_winter\최성욱\3회\소수찾기.h" />
+    <ClInclude Include="2017_winter\최성욱\4회\ITES.h" />
+    <ClInclude Include="2017_winter\최성욱\4회\키로거.h" />
+    <ClInclude Include="2017_winter\최성욱\4회\프린터큐.h" />
+    <ClInclude Include="2017_winter\최성욱\5회\arctic.h" />
+    <ClInclude Include="2017_winter\최성욱\5회\runningmedian.h" />
     <ClInclude Include="2017_winter\최성욱\최성욱.h" />
     <ClInclude Include="common.hpp" />
-    <ClInclude Include="resource.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
