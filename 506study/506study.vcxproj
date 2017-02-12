@@ -163,6 +163,10 @@
     <ClCompile Include="2017_winter\최성욱\4회\프린터큐.cpp" />
     <ClCompile Include="2017_winter\최성욱\5회\arctic.cpp" />
     <ClCompile Include="2017_winter\최성욱\5회\runningmedian.cpp" />
+    <ClCompile Include="2017_winter\최성욱\6회\algospot_CLOCKSYNC.cpp" />
+    <ClCompile Include="2017_winter\최성욱\6회\algospot_MORDOR.cpp" />
+    <ClCompile Include="2017_winter\최성욱\7회\algospot_PASS486.cpp" />
+    <ClCompile Include="2017_winter\최성욱\7회\algospot_POTION.cpp" />
     <ClCompile Include="home.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -183,6 +187,10 @@
     <ClInclude Include="2017_winter\최성욱\4회\프린터큐.h" />
     <ClInclude Include="2017_winter\최성욱\5회\arctic.h" />
     <ClInclude Include="2017_winter\최성욱\5회\runningmedian.h" />
+    <ClInclude Include="2017_winter\최성욱\6회\algospot_CLOCKSYNC.h" />
+    <ClInclude Include="2017_winter\최성욱\6회\algospot_MORDOR.h" />
+    <ClInclude Include="2017_winter\최성욱\7회\algospot_PASS486.h" />
+    <ClInclude Include="2017_winter\최성욱\7회\algospot_POTION.h" />
     <ClInclude Include="2017_winter\최성욱\최성욱.h" />
     <ClInclude Include="common.hpp" />
   </ItemGroup>

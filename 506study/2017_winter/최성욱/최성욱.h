@@ -19,3 +19,9 @@
 
 #include"5ȸ\runningmedian.h"
 #include"5ȸ\arctic.h"
+
+#include"6ȸ\algospot_CLOCKSYNC.h"
+#include"6ȸ\algospot_MORDOR.h"
+
+#include"7ȸ\algospot_PASS486.h"
+#include"7ȸ\algospot_POTION.h"

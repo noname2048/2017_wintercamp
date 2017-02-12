@@ -34,6 +34,12 @@
     <Filter Include="소스 파일\최성욱\5회">
       <UniqueIdentifier>{ac87f4b8-1cfd-43b9-9c8f-266f79b78559}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\최성욱\6회">
+      <UniqueIdentifier>{aa18877b-8067-4a98-b05d-1296acf3f646}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\최성욱\7회">
+      <UniqueIdentifier>{bb77001e-860b-4e03-8ffc-6f1623978c77}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="home.cpp">
@@ -89,6 +95,18 @@
     </ClCompile>
     <ClCompile Include="2017_winter\최성욱\5회\runningmedian.cpp">
       <Filter>소스 파일\최성욱\5회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\6회\algospot_CLOCKSYNC.cpp">
+      <Filter>소스 파일\최성욱\6회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\6회\algospot_MORDOR.cpp">
+      <Filter>소스 파일\최성욱\6회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\7회\algospot_PASS486.cpp">
+      <Filter>소스 파일\최성욱\7회</Filter>
+    </ClCompile>
+    <ClCompile Include="2017_winter\최성욱\7회\algospot_POTION.cpp">
+      <Filter>소스 파일\최성욱\7회</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -148,6 +166,18 @@
     </ClInclude>
     <ClInclude Include="2017_winter\최성욱\5회\runningmedian.h">
       <Filter>소스 파일\최성욱\5회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\6회\algospot_CLOCKSYNC.h">
+      <Filter>소스 파일\최성욱\6회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\6회\algospot_MORDOR.h">
+      <Filter>소스 파일\최성욱\6회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\7회\algospot_PASS486.h">
+      <Filter>소스 파일\최성욱\7회</Filter>
+    </ClInclude>
+    <ClInclude Include="2017_winter\최성욱\7회\algospot_POTION.h">
+      <Filter>소스 파일\최성욱\7회</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
