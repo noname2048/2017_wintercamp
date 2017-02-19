@@ -5,5 +5,5 @@
 using namespace std;
 
 namespace 정인석 {
-	int 스택(void);
+	int 4_스택(void);
 };

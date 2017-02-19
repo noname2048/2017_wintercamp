@@ -5,10 +5,10 @@
 using namespace std;
 
 namespace 정인석 {
-	int AC(void)
+	int 5_AC(void)
 	{
-		int T;//테스트케이스의 개수
-		scanf("%d", &T);//케이스 수 입력
+		int T;
+		scanf("%d", &T);
 
 		for (int i = 0; i < T; i++)
 		{

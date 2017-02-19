@@ -6,7 +6,7 @@
 using namespace std;
 
 namespace 정인석 {
-	int 상수(void) {
+	int 2_상수(void) {
 		char num1[1000], num2[1000];
 		scanf("%s %s", num1, num2);
 		char temp1 = num1[0];

@@ -2,11 +2,10 @@
 #include <iostream>
 #include <algorithm>
 #include <cmath>
-#include "SFW.h"
 using namespace std;
 
 namespace ¡§¿ŒºÆ{
-	int SFW(void) {
+	int 1_SFW(void) {
 		int T;//testcase
 		scanf("%d", &T);
 		for (int i = 0; i < T; i++) {

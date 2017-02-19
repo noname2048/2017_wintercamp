@@ -2,9 +2,10 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <iostream>
 #include <algorithm>
-#include <cmath>
+#include <string>
 using namespace std;
+string reverse(string::iterator& it);
 
 namespace ¡§¿ŒºÆ {
-	int 1_SFW(void);
+	int 9_QUADTREE(void);
 };

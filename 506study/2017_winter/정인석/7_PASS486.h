@@ -1,7 +1,8 @@
 #pragma once
 #define _CRT_SECURE_NO_WARNINGS 1
-#include <stdio.h>
+#include <iostream>
+using namespace std;
 
 namespace 정인석 {
-	int 3_소수찾기(void);
+	int 7_PASS486(void);
 };

@@ -6,5 +6,5 @@
 using namespace std;
 
 namespace ¡§¿ŒºÆ {
-	int AC(void);
+	int 5_AC(void);
 };

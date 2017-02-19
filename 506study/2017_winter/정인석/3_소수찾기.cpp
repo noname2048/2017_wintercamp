@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 namespace 정인석 {
-	int 소수찾기(void)
+	int 3_소수찾기(void)
 	{
 		int tot;//숫자의 개수
 		int arr[100];
