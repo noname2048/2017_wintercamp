@@ -5,4 +5,4 @@ using namespace std;
 
 namespace ¡§¿ŒºÆ {
 	int 7_PASS486(void);
-};
+}

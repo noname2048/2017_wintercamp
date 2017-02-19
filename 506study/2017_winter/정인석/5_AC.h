@@ -1,11 +1,10 @@
 #pragma once
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <iostream>
-#include <algorithm>
-#include <cmath>
-#include <string>
+#include <deque>//deque라이브러리 이용
+#include <algorithm>//reverse 사용
 using namespace std;
 
 namespace 정인석 {
-	int 2_상수(void);
-};
+	int 5_AC(void);
+}

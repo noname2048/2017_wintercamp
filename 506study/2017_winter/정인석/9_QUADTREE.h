@@ -8,4 +8,4 @@ string reverse(string::iterator& it);
 
 namespace ¡§¿ŒºÆ {
 	int 9_QUADTREE(void);
-};
+}

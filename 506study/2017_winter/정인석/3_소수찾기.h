@@ -4,4 +4,4 @@
 
 namespace 정인석 {
 	int 3_소수찾기(void);
-};
+}

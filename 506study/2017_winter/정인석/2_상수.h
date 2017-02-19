@@ -3,8 +3,9 @@
 #include <iostream>
 #include <algorithm>
 #include <cmath>
+#include <string>
 using namespace std;
 
 namespace 정인석 {
-	int 1_SFW(void);
-};
+	int 2_상수(void);
+}

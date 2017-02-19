@@ -1,9 +1,10 @@
 #pragma once
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <iostream>
-#include <string>
+#include <algorithm>
+#include <cmath>
 using namespace std;
 
 namespace 정인석 {
-	int 4_스택(void);
-};
+	int 1_SFW(void);
+}
