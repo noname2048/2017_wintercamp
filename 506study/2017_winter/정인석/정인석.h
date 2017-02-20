@@ -11,3 +11,5 @@
 #include"7_PASS486.h"
 
 #include"9_QUADTREE.h"
+
+#include"10_TRIANGLEPATH.h"
