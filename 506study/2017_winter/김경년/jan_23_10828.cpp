@@ -9,6 +9,7 @@ namespace ±è°æ³â {
 		cin >> testNum;
 		if (testNum >= 1 && testNum <= 10000)
 			stackPractice(testNum);
+		return 0;
 	}
 	void stackPractice(int testNum) {
 		stack<int> input;

@@ -14,6 +14,7 @@ namespace ±è°æ³â {
 			test = reverse(iter);
 			cout << test << endl;
 		}
+		return 0;
 	}
 	string reverse(string::iterator& it) {
 		char head = *it;

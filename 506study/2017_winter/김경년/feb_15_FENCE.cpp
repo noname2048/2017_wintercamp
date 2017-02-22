@@ -14,6 +14,7 @@ namespace ±è°æ³â {
 			ans = maxS(0, num - 1);
 			cout << ans << endl;
 		}
+		return 0;
 	}
 	int min(int a, int b) {
 		if (a <= b)
