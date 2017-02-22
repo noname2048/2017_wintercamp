@@ -10,3 +10,6 @@
 #include"feb_8_POTION.h"
 #include"feb_15_FENCE.h"
 #include"feb_15_QUADTREE.h"
+#include"feb_20_TRIANGLEPATH.h"
+#include"feb_22_MATCHORDER.h"
+#include"feb_22_LUNCHBOX.h"
